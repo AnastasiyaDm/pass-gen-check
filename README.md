@@ -16,7 +16,7 @@ Python console program generates a strong random password with the following rul
 - Contains both lowercase and uppercase characters
 - Contains at least one digit
 - Contains at least one punctuation character (!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~)
-- Is at least 14 characters long
+- Is at least 14 characters long (max length  is 20 characters)
 
 To generate new password run the command:
 >python password_generator.py
